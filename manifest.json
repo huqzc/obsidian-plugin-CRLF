@@ -3,7 +3,7 @@
 	"name": "only CRLF",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "To enable this feature, LF will be replaced with CRLF every time the file is saved.",
+	"description": "To enable this plugin, LF will be replaced with CRLF every time the file is saved.",
 	"author": "huqzc",
 	"authorUrl": "https://github.com/huqzc",
 	"isDesktopOnly": false
