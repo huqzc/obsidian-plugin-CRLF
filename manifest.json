@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "only-CRLF",
+	"name": "only CRLF",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "To enable this feature, LF will be replaced with CRLF every time the file is saved.",
+	"author": "huqzc",
+	"authorUrl": "https://github.com/huqzc",
 	"isDesktopOnly": false
 }
